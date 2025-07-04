@@ -44,7 +44,7 @@ I'm a Data Analyst transitioning into the world of Full-Stack Development. I'm p
 
 ### 📊 My Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batavoo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batavoo&layout=compact&theme=radical&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
