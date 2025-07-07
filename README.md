@@ -7,12 +7,11 @@ I'm a Data Analyst transitioning into the world of Full-Stack Development. I'm p
 ### 🚀 About Me
 
 - 🔭 I’m currently working as a **Data Analyst**.
-- 🌱 I’m currently learning **React** for front-end development and will soon dive into **Node.js** for the back-end.
+- 🌱 I’m currently learning **React** for front-end development and **Node.js** for the back-end.
 - 👯 I’m looking to collaborate on exciting web development projects.
 - 💬 Ask me about **Python, Power BI, or my journey into web development**!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gustavo-santos-744549234/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm fluent in English and love connecting with people from all over the world.
 
 ---
 
